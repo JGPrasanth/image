@@ -1,0 +1,64 @@
+.nav {
+  height: 100%;
+}
+.side-nav-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.side-nav-button:hover {
+  background-color: blanchedalmond;
+  border-radius: 30%;
+}
+
+.sidebar-button {
+  background-color: #111212;
+  border: none;
+}
+
+.sidebar-button svg {
+  font-size: 1.5rem; 
+}
+
+.navbar-brand {
+  font-size: 1.5rem; 
+  color: #101011;
+}
+
+.nav-dropdown-item {
+  color: #070808;
+}
+
+.nav-dropdown-item.active {
+  background-color: #040505; 
+  color: #fff; 
+}
+
+.navbar {
+  background-color: #e97ff3;
+  border-bottom: 2px solid #050506;
+}
+
+.navbar-toggler-icon {
+  color: #0f1011;
+}
+
+.navbar-collapse {
+  background-color: #e97ff3;
+}
+.nav-link {
+  color: #151516;
+  background-color: #e97ff3;
+}
+
+.nav-link.active {
+  color: #111010; 
+  background-color: #070808;
+}
+.sidebar-button {
+  cursor: pointer;
+}
+
